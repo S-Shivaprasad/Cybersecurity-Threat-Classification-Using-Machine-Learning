@@ -82,4 +82,4 @@ python train_neural_network.py
 - `README.md` - Project documentation
 
 ## 📌 Contact
-For queries, reach out via [GitHub Issues](https://github.com/yourusername/Cybersecurity-Threat-Classification/issues) or email at **your-email@example.com**.
+For queries, reach out via email at **shivaprasad20005@gmail.com**.
